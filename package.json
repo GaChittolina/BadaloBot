@@ -1,0 +1,36 @@
+{
+  "name": "BadaloBot",
+  "version": "1.0.0",
+  "description": "BadaloBot is a Discord bot that helps keep channels clean while also serving as a Music Bot. It deletes his and other bots messages and the messages that invoked them 1 minute after they were sent. BadaloBot was written in DiscordJS, an easy-to-use and intuitive JavaScript API for Discord. The Music Bot part of Badalo Bot uses discord.js-music with some tweaks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "youtube-dl": "^1.12.2",
+    "ytdl-core": "^0.18.1",
+    "discord.js": "^11.2.1",
+    "superagent": "^3.8.1",
+    "ffmpeg": "^0.0.4",
+    "node-opus": "^0.2.7",
+    "youtube-audio-stream": "^0.0.50"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/GaChittolina/BadaloBot/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "music",
+    "badalo",
+    "clean",
+    "discord",
+    "bot"
+  ]
+}

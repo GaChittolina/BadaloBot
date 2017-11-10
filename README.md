@@ -11,7 +11,7 @@ Badalo Bot can be added to your channel here: [Invite me!](https://discordapp.co
 
 It's hosted at [Glitch](https://glitch.com) and uses [UpTimeRobot](https://uptimerobot.com/) to stay online 24/7!
 ___
-## Comandos:
+## Commands:
 * ``$help``           : Shows this message.
 * ``$about``          : About.
 * ``$clearchannel``   : Clears the last 100 messages in a text channel (messages older than 2 weeks can not be deleted).
